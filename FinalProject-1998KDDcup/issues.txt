@@ -1,0 +1,7 @@
+1. imbalanced data
+2. categorical encoding
+3. taking off CONTROLN before fitting
+4. Blanks in the string (or character) variables/fields and periods in
+the numeric variables correspond to missing values.
+5. MAILCODE B = Bad Address
+6. 
